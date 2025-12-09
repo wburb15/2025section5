@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(192, 192, 192);
+}
+
+h1{
+    color: rgb(255, 58, 58);
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    font-style:italic;
+    text-decoration:underline;
+}
+
+li{
+    color:rgb(255, 58, 58);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+

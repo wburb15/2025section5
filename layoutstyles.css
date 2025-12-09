@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(71, 71, 221);
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+.common {
+    background-color: white;
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.left{
+    top: 115px;
+    left: 5px;
+    bottom: 40px;
+    width: 100px;
+}
+
+.main{
+    top: 115px;
+    left: 120px;
+    right: 140px;
+    bottom: 40px;
+}
+
+.right{
+    top: 115px;
+    right: 25px;
+    width:100px;
+    bottom: 40px;
+}
+
+.footer{
+    bottom: 5px;
+    height: 25px;
+    left: 15px;
+    right: 25px;
+    position: fixed}
